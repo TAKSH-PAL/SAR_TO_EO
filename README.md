@@ -40,33 +40,7 @@ SAR-to-EO-Translation/
 │   └── summer-school-task-3.ipynb
 ├── SAR_TO_EO(SWNIR)/
 │   └── school2.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── data/
-│   │   ├── __init__.py
-│   │   ├── dataloader.py
-│   │   └── preprocessing.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── cyclegan.py
-│   │   ├── generator.py
-│   │   └── discriminator.py
-│   ├── training/
-│   │   ├── __init__.py
-│   │   ├── trainer.py
-│   │   └── loss.py
-│   └── evaluation/
-│       ├── __init__.py
-│       └── metrics.py
-├── data/
-│   ├── processed_sar/
-│   ├── processed_eo/
-│   └── raw/
-├── models/
-│   └── checkpoints/
-└── results/
-    ├── generated_images/
-    └── evaluation_metrics/
+
 ```
 
 ## Requirements
